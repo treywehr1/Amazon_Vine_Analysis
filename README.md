@@ -17,3 +17,7 @@ The purpose of the below analysis was to acquire data regarding Amazon video gam
  ![](https://github.com/treywehr1/Amazon_Vine_Analysis/blob/main/resources/total_percentages.png)
  
  ## Conclusion
+ 
+In conclusion, the considerable difference in frequency of 5-star reviews for paid and unpaid reviews would suggest that there is bias between "vine" and "not vine" reviews. The fact that there is a much higher percentage of 5-star reviews at the unpaid level would suggest that the paid level of reviews are less inclined to give reviews of the highest positivity.
+
+An additional analysis that could be performed on this dataset would be to further filter by 'verified_purchase' in order to evaluate if there is any heightened positivty bias between those reviews where the purchase was not verified and was verified. Perhaps another review qualification would further introduce positivity bias in reviews.

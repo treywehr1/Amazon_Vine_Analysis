@@ -14,8 +14,6 @@ The purpose of the below analysis was to acquire data regarding Amazon video gam
  - Images provided below support the above findings
  
  ![](https://github.com/treywehr1/Amazon_Vine_Analysis/blob/main/resources/total_counts.png)
- ![]()
- ![]()
- ![]()
+ ![](https://github.com/treywehr1/Amazon_Vine_Analysis/blob/main/resources/total_percentages.png)
  
  ## Conclusion

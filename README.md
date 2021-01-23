@@ -13,7 +13,7 @@ The purpose of the below analysis was to acquire data regarding Amazon video gam
  - For "not vine" reviews, using .value_counts(normalize=True), this amounted to 57.5% of reviews being 5-stars.
  - Images provided below support the above findings
  
- ![]()
+ ![](https://github.com/treywehr1/Amazon_Vine_Analysis/blob/main/resources/total_counts.png)
  ![]()
  ![]()
  ![]()
